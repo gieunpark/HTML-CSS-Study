@@ -30,6 +30,7 @@ header .img {
 .input-box {
     display: flex;
     justify-content: center;
+    align-items: center;
     width: 200px;
     height: 11px;
     border: 1px solid rgba(var(--b6a, 219, 219, 219), 1);
